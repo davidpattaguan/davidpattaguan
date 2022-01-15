@@ -6,4 +6,4 @@ I'm David Pattaguan, a 4th Year Student from University of Saint Louis Tuguegara
 
 🌱 I’m currently learning web development and hoping for collaborations in the future. Please contact me! @ wpattaguan@gmail.com 📧
 
-
+Looking for Internships ATM 🥳
