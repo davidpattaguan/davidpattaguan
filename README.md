@@ -1,9 +1,3 @@
-## Hi there 👋 I'm <a href="https://david-pattaguan.vercel.app">David Pattaguan</a>
-
-A 4th year student from the Philippines.
-
-<hr>
-
 <h1 align="center">Hi 👋, I'm David Pattaguan</h1>
 <h3 align="center">An Aspiring Frontend developer from Philippines</h3>
 
