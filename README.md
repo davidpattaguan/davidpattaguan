@@ -12,7 +12,7 @@ A 4th year student from the Philippines.
 <ul style="list-style:none">
     <li> ⚛️ Working on my React.js skills atm </li>
     <li>🌱 I’m currently learning Front-end development en route to Fullstack Web Development </li>
-    <li>🥳 Looking for Internships ATM </li>
+    <li>🥳 Looking for Internships </li>
     <li>📧 For collaborations: wpattaguandna@gmail.com</li>
 </ul>
 
