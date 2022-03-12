@@ -6,7 +6,7 @@
 <ul style="list-style:none">
     <li> ⚛️ Working on my React.js skills atm </li>
     <li>🌱 I’m currently learning Front-end development en route to Fullstack Web Development </li>
-    <li>🥳 Looking for Internships </li>
+    <li>🥳 Intern of Magetech </li>
     <li>📧 For collaborations: wpattaguandna@gmail.com</li>
 </ul>
 
