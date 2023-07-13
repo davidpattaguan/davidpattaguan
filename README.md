@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Pattaguan</h1>
-<h3 align="center">A Frontend developer from Philippines</h3>
+<h3 align="center">A Fullstack developer from Philippines</h3>
 
 <br>
 
