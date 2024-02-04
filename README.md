@@ -1,5 +1,13 @@
 # 💫 About Me:
-## Software Developer from Philippines || Code lang ng Code Forever and Ever
+## Software Developer from Philippines || Code lang ng Code Forever and Ever 🤩
+
+* MERN Stack
+* NextJS Frontend and Backend
+* Refine.dev + ExpressJs, Nodejs and MongoDB
+* Machine Learning - Tensorflow
+* AI Tools for building products - OpenApi, Midjourney etc
+
+
 
 
 ## 🌐 Socials:
