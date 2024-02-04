@@ -1,4 +1,4 @@
-# 💫 Hi! I'm DNA
+# Hi! I'm DNA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 ## Software Developer from Philippines || Code lang ng Code Forever and Ever 🤩
 
 ### Visit my Portfolio: [David Pattaguan | Portfolio](https://davidpattaguan.vercel.app)
