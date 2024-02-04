@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I'm DNA
 ## Software Developer from Philippines || Code lang ng Code Forever and Ever 🤩
 
 ### Visit my Portfolio: [David Pattaguan | Portfolio](https://davidpattaguan.vercel.app)
