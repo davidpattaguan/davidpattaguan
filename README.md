@@ -9,6 +9,7 @@
 * Refine.dev + ExpressJs, Nodejs and MongoDB for building admin dashboards
 * Machine Learning - Tensorflow
 * AI Tools for building products - OpenApi, Midjourney etc
+* Project Management
 * Knows Application Security - Vulnerability Assessment and Penetration Testing
 
 ## 🌐 Connect with Me:
