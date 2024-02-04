@@ -1,5 +1,5 @@
 # Hi! I'm DNA <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
-## Software Developer from Philippines || Code lang ng Code Forever and Ever 🤩
+## Software Developer from Philippines || Code lang ng Code Forever and Ever <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" />
 
 ### Visit my Portfolio: [David Pattaguan | Portfolio](https://davidpattaguan.vercel.app)
 
