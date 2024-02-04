@@ -4,7 +4,7 @@
 ### Visit my Portfolio: [David Pattaguan | Portfolio](https://davidpattaguan.vercel.app)
 
 * MERN Stack
-* NextJS Frontend and Backend
+* NextJS 14 Frontend and Backend
 * Worked with SEO, SEO optimization, Application Bundling, and Site Analytics
 * Refine.dev + ExpressJs, Nodejs and MongoDB for building admin dashboards
 * Machine Learning - Tensorflow
