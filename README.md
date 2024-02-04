@@ -1,19 +1,16 @@
 # 💫 About Me:
-## Software Developer from Philippines || Code lang ng Code Forever and Ever 🤩 ||
+## Software Developer from Philippines || Code lang ng Code Forever and Ever 🤩
+### davidpattaguan.vercel.app
 
 * MERN Stack
 * NextJS Frontend and Backend
-* Worked with SEO, SEO optimization, and Site Analytics
-* Used Refine.dev + ExpressJs, Nodejs and MongoDB for building admin dashboards
+* Worked with SEO, SEO optimization, Application Bundling, and Site Analytics
+* Refine.dev + ExpressJs, Nodejs and MongoDB for building admin dashboards
 * Machine Learning - Tensorflow
 * AI Tools for building products - OpenApi, Midjourney etc
 * Knows Application Security - Vulnerability Assessment and Penetration Testing
 
-
-
-
-## 🌐 Links:
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://davidpattaguan.vercel.app)
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davidpattaguan/) 
 
 # 💻 Tech Stack:
