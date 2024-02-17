@@ -8,7 +8,7 @@
 * Worked with SEO, SEO optimization, Application Bundling, and Site Analytics
 * Refine.dev + ExpressJs, Nodejs and MongoDB for building admin dashboards
 * Machine Learning - Tensorflow
-* AI Tools for building products - OpenApi, Midjourney etc
+* AI Tools for building products - OpenAI, Midjourney etc
 * Project Management
 * Application Security - Vulnerability Assessment and Penetration Testing
 
